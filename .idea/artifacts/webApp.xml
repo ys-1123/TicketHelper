@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webApp">
+    <output-path>$PROJECT_DIR$/out/artifacts/webApp</output-path>
+    <root id="archive" name="webApp.war">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/Jupiter/WebContent/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

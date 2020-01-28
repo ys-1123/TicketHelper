@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/YSF/Documents/full_stack_webapplication/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+521770910.index
+1592838830.index
+954659348.index
+1037699227.index
+866320346.index
+3026521838.index
